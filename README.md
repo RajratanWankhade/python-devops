@@ -17,6 +17,11 @@ Build out scaffold:
 * Dockerfile
 * command-line-tools
 * microservices
+
+1. Create a virtualenv : 'virtualenv ~/.venv'
+2. edit my '~/.bashrc'
+
+
 ### AWS Cloudshell
 ### AWS Cloud9
 
